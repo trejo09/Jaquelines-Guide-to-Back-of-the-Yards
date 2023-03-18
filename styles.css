@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+}
+
+.neighborhood {
+    height: 300px;
+    padding: 5px 100px 5px 200px;
+}
+
+.festival {
+    height: 300px;
+    padding: 5px 100px 5px 100px;
+}
+
+h1 {
+    color: #961a0f;
+}
+
+.restaurants {
+    color: #dbc327;
+    text-align: center;
+}
+
+.schools {
+    color: #83e688;
+    text-align: center;
+}
+
+h3 {
+    color: #c90f02;
+    text-align: center;
+}
+
+html {
+    font-family: 'Berkshire Swash', cursive;
+}
+
+html {
+    background-color: #ffcbc7;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
